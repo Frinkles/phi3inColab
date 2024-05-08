@@ -1,4 +1,4 @@
-# phi3inColab
+# phi-3inColab
 
 Welcome to phi3inColab! This repository contains a small implementation of Microsoft's phi-3 model that can be run in Google Colab. 
 
